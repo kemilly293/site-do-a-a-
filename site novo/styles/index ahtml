@@ -1,0 +1,25 @@
+<DOCTY html>
+<html lang=" pt-br"
+head>
+<meta charset="utf-8
+<meta charset"=UTF-8>
+<tile >carrosel de fotos </tile>
+<link> rel= staylesheet href= staylesheet.css"
+<link rel=" staylesret" herf=stayles .css
+<script>  <source>= //code.jivosite.com/hodjet/hbk67fy75z
+</head>
+<body>
+    <hearder>
+ <div class=
+ <html class=titulo>começa a nova versao de carros de untors</ht>
+  <h3 class=ubtitulo >a nova loja de carros 
+    <hearder>
+    </div>
+
+<div> id="spacer" <> /div <> espaço entre o carrousel e o formulario
+
+    <seletion>
+ <div id="carouselexempleidecations" class="carrousel slide" data-ride "carrousel"-datainterval 5000
+  <ol class=carousel -indicators''->
+<li data-target=#carouselexempleindicators data-slide-to=0 class=active <> /li>
+     <li data-target=#
